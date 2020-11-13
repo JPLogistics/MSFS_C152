@@ -163,7 +163,7 @@
     {
       "path": "SimObjects/Airplanes/Asobo_C152/cameras.cfg",
       "size": 19006,
-      "date": 132489205756116326
+      "date": 132497608295900000
     },
     {
       "path": "SimObjects/Airplanes/Asobo_C152/Climb.flt",
@@ -193,7 +193,7 @@
     {
       "path": "SimObjects/Airplanes/Asobo_C152/flight_model.cfg",
       "size": 16838,
-      "date": 132489164479545972
+      "date": 132497608295979796
     },
     {
       "path": "SimObjects/Airplanes/Asobo_C152/hangar.flt",
@@ -221,14 +221,24 @@
       "date": 132487231457545920
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_C152/Checklist/Cessna152_Checklist.xml",
+      "size": 6815,
+      "date": 132487231457290394
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_C152/Checklist/Library.xml",
+      "size": 1232,
+      "date": 132487231457300848
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_C152/model/C152.xml",
       "size": 3514,
-      "date": 132497599345367250
+      "date": 132497608295979796
     },
     {
       "path": "SimObjects/Airplanes/Asobo_C152/model/Cessna152_interior.XML",
       "size": 24592,
-      "date": 132490092237768118
+      "date": 132497608295989768
     },
     {
       "path": "SimObjects/Airplanes/Asobo_C152/panel/PANEL.CFG",
